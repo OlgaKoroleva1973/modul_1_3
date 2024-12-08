@@ -1,8 +1,8 @@
-name=('Olga')
+name = 'Olga'
 print(name)
-age=(51)
+age = 51
 print(age)
-age=(51+8)
+age += 8
 print(age)
-is_student=(True)
+is_student = True
 print(is_student)
